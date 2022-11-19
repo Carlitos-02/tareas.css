@@ -1,0 +1,25 @@
+.search button{
+    font-weight: 900;
+    width: 100px;
+    border-radius: 20px;
+    color: #7dc8c8;
+    border: 2px solid #6be7e7;
+    background-color: rgba(241, 236, 236, 0.945);;
+}
+
+.radio button{
+    width: 30px;
+    background-color: #06f3cf;
+    color: rgba(255, 255, 255, 0.986);
+    border-radius: 90%;
+    border: none;
+
+}
+
+.create button{
+    width: 150px;
+    background-color: #2b78e4;
+    color: rgb(255, 255, 255);
+    border: 2px solid rgba(0, 0, 0, 0.945);
+    box-shadow: 3px 3px black;
+}

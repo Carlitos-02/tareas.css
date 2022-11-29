@@ -1,0 +1,96 @@
+#otto {
+    width: 700px;
+    background-color: gray;
+    overflow: hidden;
+    height: auto;
+}
+
+h1 {
+    height: 60px;
+    width: 600px;
+    color: rgb(165, 165, 66);
+    margin-left: 250px;
+}
+.contador {
+        width: 600px;
+        background-color: rgb(46, 196, 196);
+        padding: 40px;
+        margin: 10px;
+        overflow: hidden;
+        height: auto;
+    }
+
+.dojo {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    float: left;
+    margin-left: 10px;
+}
+.dino {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    float:right;
+    margin-right: 10px;
+}
+.lucha {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    float:right;
+    margin-right: 70px;
+}
+
+.contenedor {
+    width: 600px;
+    background-color: rgb(211, 159, 188);
+    padding: 40px;
+    margin: 10px;
+    overflow:hidden;
+    height: auto;
+}
+.num {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    float:left;
+    margin-left:100px ;
+}
+.topgun {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    float:right;
+    margin-right: 100px;
+}
+
+.containers {
+    width: 600px;
+    background-color: white;
+    padding: 40px;
+    margin: 10px;
+    overflow: hidden;
+    height: auto;
+}
+.dune {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    float: left;
+    margin-left: 10px;
+}
+.octopus {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    float:right;
+    margin-right: 10px;
+}
+.labto {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    float:right;
+    margin-right: 70px;
+}
